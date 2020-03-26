@@ -6515,11 +6515,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gilde\\source\\repos\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
+      "projectUniqueName": "C:\\Users\\gilde\\workspace\\csharp\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
       "projectName": "CoffeeShop",
-      "projectPath": "C:\\Users\\gilde\\source\\repos\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
+      "projectPath": "C:\\Users\\gilde\\workspace\\csharp\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
       "packagesPath": "C:\\Users\\gilde\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gilde\\source\\repos\\CoffeeShop\\CoffeeShop\\obj\\",
+      "outputPath": "C:\\Users\\gilde\\workspace\\csharp\\CoffeeShop\\CoffeeShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gilde\\AppData\\Roaming\\NuGet\\NuGet.Config",
